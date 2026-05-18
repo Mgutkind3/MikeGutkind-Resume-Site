@@ -68,7 +68,7 @@ export default function Hero() {
           className="mb-8"
         >
           <h2 className="text-2xl md:text-3xl lg:text-4xl font-light text-indigo-200 mb-4">
-            Senior Software Engineer
+            Manager, Software Engineering
           </h2>
           <p className="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
           Engineer, creator, and lifelong tinkerer — turning ideas into systems that actually work.

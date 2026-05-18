@@ -48,10 +48,10 @@ export default function About() {
                 
                 <div className="space-y-4 text-gray-300 leading-relaxed">
                   <p>
-                  I'm a Senior Software Engineer who's passionate about building systems that are as smart as they are reliable. I specialize in automation, AI-driven infrastructure, and cloud optimization — finding creative ways to make technology do more with less.
+                  I'm a Software Engineering Manager who's passionate about building systems — and teams — that are as smart as they are reliable. I lead engineers working at the intersection of cybersecurity, AI-driven infrastructure, and cloud automation, finding creative ways to make technology do more with less.
                   </p>
                   <p>
-                  Over the years, I've worked on projects that range from self-healing systems and machine learning–powered troubleshooting tools to internal dashboards that simplify complex workflows. I love taking messy, complicated problems and designing solutions that feel effortless once they're built.
+                  Over the years, I've led and shipped work spanning self-healing systems, ML-powered troubleshooting tools, and internal platforms that simplify complex workflows. I love taking messy, complicated problems — technical or organizational — and designing solutions that feel effortless once they're built.
                   </p>
                   <p>
                     Outside of work, I'm usually creating something — whether it's a new app, a side project, or a DIY build in my garage. I'm also a hybrid athlete and triathlon enthusiast, always chasing that balance between endurance, focus, and curiosity.
@@ -81,7 +81,7 @@ export default function About() {
                     <span className="text-2xl">💼</span>
                     <div>
                       <h4 className="font-semibold text-white">Current Role</h4>
-                      <p className="text-gray-400">Senior Software Engineer, Capital One</p>
+                      <p className="text-gray-400">Manager, Software Engineering, Capital One</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">

@@ -3,10 +3,22 @@ import FadeInSection from '../components/FadeInSection';
 
 const experiences = [
   {
+    title: 'Manager, Software Engineering',
+    company: 'Capital One',
+    location: 'New York City, NY',
+    period: '2025 - Present',
+    description: [
+      'Lead two full-stack engineering teams within Cybersecurity SRE, spanning platform rollouts and AI/ML infrastructure',
+      'Drive enterprise-wide deployment of Cybersecurity tooling, standards, and automation across all Capital One engineering teams',
+      'Oversee development and release of AI/ML pipelines that predict infrastructure outages and trigger autonomous remediation to prevent incidents proactively'
+    ],
+    skills: ['Team Leadership', 'Cybersecurity', 'AI/ML', 'SRE', 'Platform Engineering', 'Automation']
+  },
+  {
     title: 'Senior Software Engineer',
     company: 'Capital One',
     location: 'New York City, NY',
-    period: '2024 - Present',
+    period: '2024 - 2025',
     description: [
       'Partner across business units on a Cyber SRE team, delivering AI-driven solutions to enhance security, automation, and resiliency',
       'Directed the design, development, and deployment of self-healing infrastructure, improving application reliability and reducing operational risk',
